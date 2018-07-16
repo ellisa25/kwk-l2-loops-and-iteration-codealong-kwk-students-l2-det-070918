@@ -1,5 +1,5 @@
 // Code your solutions in this file
-function printBadges (names) {
+function printBadges (names) { for (let i = 0; i < names; i++)
   
 }
 const gifts = ["teddy bear", 'drone', 'doll'];
