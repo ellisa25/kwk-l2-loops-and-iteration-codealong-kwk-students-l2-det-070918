@@ -1,2 +1,5 @@
 // Code your solutions in this file
-tailsNeverFails () ;
+const gifts = ["teddy bear", 'drone', 'doll'];
+function setAside (gift) {
+  console.log('Wrapped ${gift} and added a card!');
+}
