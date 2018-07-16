@@ -5,4 +5,7 @@ function printBadges (names) {
   console.log('Welcome ${names[i]}! You are employee #${i + 1}.');
 }
 
+  retrun names;
+  }
+  
 
